@@ -1,0 +1,1 @@
+# print_from_1_to_100_without_numbers
