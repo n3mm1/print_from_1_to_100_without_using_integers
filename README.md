@@ -1,1 +1,1 @@
-# print_from_1_to_100_without_numbers
+Prints from 1 to 100 without using any numbers bruh
